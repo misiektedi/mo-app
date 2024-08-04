@@ -7,5 +7,5 @@
 </style>
 
 <main>
-	<h1>Kontakt</h1>
+	<h1>Produkty</h1>
 </main>

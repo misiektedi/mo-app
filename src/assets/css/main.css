@@ -1,0 +1,44 @@
+* {
+	margin: 0;
+	padding: 0;
+}
+
+body {
+	margin: 0;
+	padding: 0;
+	background-color: #000;
+}
+
+.mo-header {
+	display: flex;
+	align-items: center;
+	gap: 15px;
+	padding: 25px;
+	border-bottom: 1px solid #333;
+}
+
+.mo-header h1 {
+	margin: 0;
+	padding: 0;
+}
+
+.mo-header a {
+	color: #fff;
+	text-decoration: none;
+	padding: 10px 20px;
+	border-radius: 50px;
+	transition: 0.5s;
+}
+.mo-header a:hover {
+	background-color: rgba(0, 187, 136, 1);
+	color: #fff;
+}
+
+main {
+	padding: 25px;
+}
+
+.mo-footer {
+	padding: 25px;
+	border-top: 1px solid #333;
+}
