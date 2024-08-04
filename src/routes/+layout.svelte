@@ -10,7 +10,10 @@
 <header class="mo-header">
 	<a href="/"><h1>MO App</h1></a>
 	<a href="/produkty">Produkty</a>
-	<a href="/kontakt">Kontakt</a>
+	<a href="/kategorie">Kategorie</a>
+	<a href="/kontakt">Polubione</a>
+	
+	<div class="search" contenteditable></div>
 </header>
 
 <main>
