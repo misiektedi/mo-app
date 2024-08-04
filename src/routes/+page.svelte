@@ -1,5 +1,5 @@
 <script>
-
+	
 </script>
 
 <style>
@@ -8,5 +8,4 @@
 
 <main>
 	Dzien dobry.
-	<a href="/kontakt">Kontakt</a>
 </main>

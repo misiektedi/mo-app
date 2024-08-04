@@ -1,5 +1,14 @@
+<script>
+	import '../assets/css/fonts.css';
+</script>
+
+<svelte:head>
+	<title>MO App</title>
+</svelte:head>
+
 <header>
-	<h1>MO App</h1>
+	<a href="/"><h1>MO App</h1></a>
+	<a href="/kontakt">Kontakt</a>
 </header>
 
 <main>
