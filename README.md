@@ -1,8 +1,8 @@
-# dzień dobry
+# MO-App
 
-to moj super testowa webowa aplikacja w Svelte
+Super testowa webowa aplikacja napisana w Svelte, TypeScript i Express.
 
 > [!NOTE]  
-> W sumie to nie wiem co to potrafi
+> W sumie to nie wiem co ona potrafi.
 
-# pozdrawiam
+# Pozdrawiam
