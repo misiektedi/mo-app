@@ -7,9 +7,7 @@
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
 
-Super testowa webowa aplikacja napisana w Svelte, TypeScript i Express.
+Webowa aplikacja napisana w Svelte, TypeScript i Express.
+Ta aplikacja jest sklepem internetowym.
 
-> [!NOTE]  
-> W sumie to nie wiem co ona potrafi.
-
-# Pozdrawiam
+# Pozdrawiam :)
